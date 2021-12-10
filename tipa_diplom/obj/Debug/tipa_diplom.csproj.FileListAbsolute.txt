@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\bin\Debug\tipa_diplom.exe.config
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\bin\Debug\tipa_diplom.exe
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\bin\Debug\tipa_diplom.pdb
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.Form1.resources
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.Properties.Resources.resources
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.exe
+C:\Users\user\Desktop\Projects\прога\tipa_diplom\tipa_diplom\obj\Debug\tipa_diplom.pdb
